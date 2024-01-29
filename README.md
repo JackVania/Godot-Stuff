@@ -1,4 +1,4 @@
-# Godot-Stuff
+# Godot Goodies
 Collection of my FOSS Godot Creations released under CC0 1.0 Universal : https://creativecommons.org/publicdomain/zero/1.0/
 
 You may freely use the work offered in this repository, edit, share, whatever you like without attribution.
