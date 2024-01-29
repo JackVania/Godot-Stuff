@@ -1,7 +1,7 @@
 # Godot-Stuff
 Collection of my FOSS Godot Creations released under CC0 1.0 Universal : https://creativecommons.org/publicdomain/zero/1.0/
 
-You may freely use this work, edit, share, whatever you like without attribution.
+You may freely use the work offered in this repository, edit, share, whatever you like without attribution.
 
 Consider following me on social media, links found at https://www.jackvania.com.
 
